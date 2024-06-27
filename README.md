@@ -1,4 +1,4 @@
-### 240620~22 코딩테스트 대비 공부 기록
+### 코딩테스트 대비 codility 공부 기록
 
 > https://app.codility.com/programmers/lessons/
 
